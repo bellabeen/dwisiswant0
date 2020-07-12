@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![ima_strong_cat](https://pbs.twimg.com/profile_images/1279350100397965312/Eom88J8k_400x400.jpg)
+
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
