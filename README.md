@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![ima_strong_cat](https://pbs.twimg.com/profile_images/1279350100397965312/Eom88J8k_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1279350100397965312/Eom88J8k_400x400.jpg" height="234" alt="dwisiswant0">
+
+### I'ma strong cat btw :cat2:
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
