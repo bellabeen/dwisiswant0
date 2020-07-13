@@ -1,4 +1,4 @@
-### There are no places like 127.0.0.2 _(btw, I'm using Tor)_
+### There's no place like 127.0.0.2 _(uh, I'm using Tor)_
 
 <img src="https://pbs.twimg.com/profile_images/1279350100397965312/Eom88J8k_400x400.jpg" height="123" alt="dwisiswant0">
 
