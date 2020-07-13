@@ -1,9 +1,6 @@
-### Hi there 👋
+### There are no places like 127.0.0.2 _(btw, I'm using Tor)_
 
-<img src="https://pbs.twimg.com/profile_images/1279350100397965312/Eom88J8k_400x400.jpg" height="234" alt="dwisiswant0">
-
-#### I'ma strong _(also weird)_ cat btw
-# :smirk_cat:
+<img src="https://pbs.twimg.com/profile_images/1279350100397965312/Eom88J8k_400x400.jpg" height="123" alt="dwisiswant0">
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
