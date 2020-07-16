@@ -1,6 +1,6 @@
 ### There's no place like 127.0.0.2 _(uh, I'm using Tor)_
 
-<img src="https://pbs.twimg.com/profile_images/1279350100397965312/Eom88J8k_400x400.jpg" height="123" alt="dwisiswant0">
+![127.0.0.2](https://pbs.twimg.com/profile_banners/496803315/1594863967/1500x500)
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
