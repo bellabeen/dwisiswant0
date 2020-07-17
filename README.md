@@ -1,4 +1,4 @@
-![127.0.0.2](https://static.wixstatic.com/media/cbb37b_821fd2835ab1404f9950dac259abf29e~mv2.gif)
+![127.0.0.2](https://i.stack.imgur.com/1dpmw.gif)
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
