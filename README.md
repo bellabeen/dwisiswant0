@@ -1,4 +1,4 @@
-![127.0.0.2](https://pbs.twimg.com/profile_banners/496803315/1594863967/1500x500)
+![127.0.0.2](https://static.wixstatic.com/media/cbb37b_ef1810141c9d4b85a2c4738d3ad0f0cf~mv2.gif)
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
