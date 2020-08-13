@@ -1,5 +1,4 @@
-![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=false&count_private=true&theme=radical)
-
+![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwisiswant0&hide=javascript,html&theme=radical&layout=compact)
 
 [![support](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/dw1s)
