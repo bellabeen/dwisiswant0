@@ -1,5 +1,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+---
+
 [![support](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/dw1s)
 
 I open-source almost everything I can, mostly for security and bug bounty stuff to pwn & automate all the things, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free. See what I maintain at pinned repository on my GitHub profile.
