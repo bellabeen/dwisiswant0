@@ -2,7 +2,7 @@
 
 ---
 
-I open-source almost everything I can, mostly for security and bug bounty stuff to pwn & automate all the things, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free. See what I maintain at pinned repository on my GitHub profile.
+I am 21 yo, and I open-source almost everything I can, mostly for security and bug bounty stuff to pwn & automate all the things, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free. See what I maintain at pinned repository on my GitHub profile.
 
 However, if you've made some money using my tools or just want to encourage me to continue creating stuff, please consider giving back or [![support](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/dw1) my efforts and help it grow by buying me coffee - but only if you're definitely able to! 😊🎉
 
