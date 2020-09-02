@@ -1,5 +1,5 @@
+![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![](https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif)
-
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
