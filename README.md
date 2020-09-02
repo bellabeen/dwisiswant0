@@ -1,4 +1,7 @@
-![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![](https://64.media.tumblr.com/ef70a9d5fe9e493e2a44ea4cd114252f/tumblr_ot247thB4r1wog500o1_500.gif)
+
+
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
@@ -10,7 +13,7 @@ However, if you've made some money using my tools or just want to encourage me t
 
 ---
 
-![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwisiswant0&hide=javascript,html&theme=radical&layout=compact)
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwisiswant0&hide=javascript,html&theme=radical&layout=compact) -->
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
