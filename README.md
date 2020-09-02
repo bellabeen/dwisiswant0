@@ -1,4 +1,4 @@
-![](https://steamuserimages-a.akamaihd.net/ugc/96105795494387816/A89D6BA71991647565631867ACB94476B65CCEE4/)
+![](https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif)
 
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
