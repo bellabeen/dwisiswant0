@@ -1,4 +1,4 @@
-![](https://64.media.tumblr.com/ef70a9d5fe9e493e2a44ea4cd114252f/tumblr_ot247thB4r1wog500o1_500.gif)
+![](https://steamuserimages-a.akamaihd.net/ugc/96105795494387816/A89D6BA71991647565631867ACB94476B65CCEE4/)
 
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
